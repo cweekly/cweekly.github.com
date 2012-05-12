@@ -3,18 +3,17 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  Self: Chris Weekly
+  Site: http://chrisweekly.com
+  Twitter: @cweekly
+  Location: Plymouth, MA 
 
 /* THANKS */
-  Names (& URL):
+  Initializr, H5BP, github, etc
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software:
+  Components: Modernizr, jQuery, twitter-bootstrap, etc.
 
 
 
